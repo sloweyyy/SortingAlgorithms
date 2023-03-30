@@ -1,0 +1,3 @@
+﻿  ProjectI02.cpp
+D:\Uni\UIT_Together\SelectionSort\ProjectI02\ProjectI02.cpp(32,14): warning C4101: 'temp': unreferenced local variable
+  ProjectI02.vcxproj -> D:\Uni\UIT_Together\SelectionSort\SelectionSort\x64\Debug\ProjectI02.exe
