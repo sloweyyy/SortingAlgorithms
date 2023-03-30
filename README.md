@@ -23,6 +23,6 @@ BubbleSort(arr, size);
 ## Contributing
 Contributions to this repository are welcome. If you would like to add a new sorting algorithm, please create a new function in the sorting_algorithms.cpp file and include a brief description of the algorithm in this README file.
 
-##License
+## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
  
